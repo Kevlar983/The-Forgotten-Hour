@@ -1,0 +1,77 @@
+{
+  "mode": "interactive",
+  "granularity": "standard",
+  "parallelization": {
+    "enabled": true,
+    "plan_level": true,
+    "task_level": false,
+    "skip_checkpoints": true,
+    "max_concurrent_agents": 3,
+    "min_plans_for_parallel": 2
+  },
+  "commit_docs": true,
+  "model_profile": "adaptive",
+  "project_code": "SALT",
+  "workflow": {
+    "research": true,
+    "plan_check": true,
+    "verifier": true,
+    "auto_advance": false,
+    "nyquist_validation": true,
+    "security_enforcement": true,
+    "security_asvs_level": 1,
+    "security_block_on": "high",
+    "discuss_mode": "discuss",
+    "research_before_questions": false,
+    "compact_content": false,
+    "plan_bounce": false,
+    "plan_bounce_passes": 2,
+    "cross_ai_execution": false,
+    "test_gate_timeout": 600
+  },
+  "plan_review": {
+    "source_grounding": true
+  },
+  "planning": {
+    "commit_docs": true,
+    "search_gitignored": false,
+    "sub_repos": []
+  },
+  "ship": {
+    "pr_body_sections": [
+      {
+        "heading": "User Stories & Acceptance Criteria",
+        "enabled": true,
+        "source": "REQUIREMENTS.md ## User Stories || REQUIREMENTS.md ## Acceptance Criteria",
+        "fallback": "- Acceptance criteria are covered by the linked requirements and verification evidence."
+      },
+      {
+        "heading": "Risks & Dependencies",
+        "enabled": true,
+        "source": "PLAN.md ## Risks || PLAN.md ## Dependencies",
+        "fallback": "- No known high-risk rollout dependencies."
+      },
+      {
+        "heading": "Success Metrics & Release Criteria",
+        "enabled": true,
+        "source": "REQUIREMENTS.md ## Definition of Done || VERIFICATION.md ## Release Criteria",
+        "fallback": "- Release when automated verification and required manual checks pass."
+      }
+    ]
+  },
+  "git": {
+    "branching_strategy": "none",
+    "create_tag": true,
+    "repo_tagging": "single"
+  },
+  "gates": {
+    "execute_next_plan": true,
+    "confirm_transition": true,
+    "confirm_milestone_scope": true
+  },
+  "hooks": {
+    "context_warnings": true
+  },
+  "agent_skills": {},
+  "claude_md_path": "./AGENTS.md"
+}
