@@ -64,7 +64,7 @@ None yet.
 
 ### Blockers/Concerns
 
-- **GitHub remote:** A private GitHub repository was requested, but no repository URL or API token is configured in this environment. SSH authentication works as `Kevlar983`, so the local repository can be pushed once the private repository exists and its SSH URL is provided.
+- **GitHub remote:** The local repository is committed and `origin` is configured as `git@github.com:Kevlar983/the-salt-archive.git`, but the private repository does not exist yet. SSH authentication works as `Kevlar983`; create the private repository, then run `git push -u origin main`. No GitHub API token or `gh` session is available in this environment.
 - **App Store naming:** The title "The Salt Archive" is a working title; perform a trademark/name search before release.
 
 ## Deferred Items
