@@ -23,7 +23,7 @@ See: `.planning/PROJECT.md` (updated 2026-11-24)
 Phase: 1 of 8 (Foundation and Vertical Slice)  
 Plan: 0 of 4 in current phase  
 Status: Ready to discuss and plan — implementation deliberately not started  
-Last activity: 2026-11-24 — Project design, architecture, requirements, and roadmap initialized
+Last activity: 2026-11-24 — Planning artifacts committed and pushed to GitHub
 
 Progress: [░░░░░░░░░░] 0%
 
@@ -64,8 +64,8 @@ None yet.
 
 ### Blockers/Concerns
 
-- **GitHub remote:** The local repository is committed and `origin` is configured as `git@github.com:Kevlar983/the-salt-archive.git`, but the private repository does not exist yet. SSH authentication works as `Kevlar983`; create the private repository, then run `git push -u origin main`. No GitHub API token or `gh` session is available in this environment.
-- **App Store naming:** The title "The Salt Archive" is a working title; perform a trademark/name search before release.
+- **GitHub repository:** Published to `git@github.com:Kevlar983/The-Forgotten-Hour.git`; `main` tracks `origin/main`. The repository name differs from the working title "The Salt Archive"; confirm the intended public title before release.
+- **App Store naming:** The docs use the working title "The Salt Archive" while the remote repository is named "The Forgotten Hour". Confirm the final title and perform a trademark/name search before release.
 
 ## Deferred Items
 
@@ -78,5 +78,5 @@ Items acknowledged and deferred at milestone close, most recent first:
 ## Session Continuity
 
 Last session: 2026-11-24 17:34  
-Stopped at: Planning artifacts created; next action is Phase 1 discussion  
+Stopped at: Planning artifacts committed and pushed; next action is Phase 1 discussion  
 Resume file: None
