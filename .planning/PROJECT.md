@@ -1,8 +1,8 @@
-# The Salt Archive
+# The Forgotten Hour
 
 ## What This Is
 
-The Salt Archive is an original, fully offline mystery puzzle adventure for iPhone and iPad. The player controls Iris Vale, a paper conservator who returns to an isolated tidal town and uncovers why its residents collectively lost one week of memory seventeen years ago. It is built for players who want an atmospheric, fair, hand-crafted deduction game that can be played in short sessions or long investigations.
+**The Forgotten Hour** is an original, fully offline mystery puzzle adventure series for iPhone and iPad. **The Salt Archive** is Adventure One: paper conservator Iris Vale returns to an isolated tidal town and uncovers why its residents collectively lost one week of memory seventeen years ago. The series is built for players who want atmospheric, fair, hand-crafted deduction that can be played in short sessions or long investigations.
 
 ## Core Value
 

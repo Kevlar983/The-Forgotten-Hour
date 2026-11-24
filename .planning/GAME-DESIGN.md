@@ -1,6 +1,7 @@
-# Game Design — The Salt Archive
+# Game Design — The Forgotten Hour
 
-**Working title:** The Salt Archive  
+**Game:** The Forgotten Hour  
+**Adventure One:** The Salt Archive  
 **Genre:** Narrative mystery puzzle adventure  
 **Platform:** iPhone and iPad, native SwiftUI  
 **Audience:** Players who enjoy atmospheric deduction, environmental storytelling, and fair, hand-authored puzzles  

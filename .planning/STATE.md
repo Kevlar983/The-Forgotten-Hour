@@ -15,6 +15,8 @@ progress:
 
 See: `.planning/PROJECT.md` (updated 2026-11-24)
 
+**Game:** The Forgotten Hour  
+**Adventure One:** The Salt Archive  
 **Core value:** Every puzzle must reveal a meaningful piece of the mystery, and every revelation must make the player want to solve the next puzzle.  
 **Current focus:** Phase 1 — Foundation and Vertical Slice
 
@@ -23,7 +25,7 @@ See: `.planning/PROJECT.md` (updated 2026-11-24)
 Phase: 1 of 8 (Foundation and Vertical Slice)  
 Plan: 0 of 4 in current phase  
 Status: Ready to discuss and plan — implementation deliberately not started  
-Last activity: 2026-11-24 — Planning artifacts committed and pushed to GitHub
+Last activity: 2026-11-24 — Title hierarchy updated; Phase 1 started
 
 Progress: [░░░░░░░░░░] 0%
 
@@ -64,8 +66,7 @@ None yet.
 
 ### Blockers/Concerns
 
-- **GitHub repository:** Published to `git@github.com:Kevlar983/The-Forgotten-Hour.git`; `main` tracks `origin/main`. The repository name differs from the working title "The Salt Archive"; confirm the intended public title before release.
-- **App Store naming:** The docs use the working title "The Salt Archive" while the remote repository is named "The Forgotten Hour". Confirm the final title and perform a trademark/name search before release.
+- **App Store naming:** The game title is now "The Forgotten Hour" and Adventure One is "The Salt Archive". Perform a trademark/name search before release.
 
 ## Deferred Items
 

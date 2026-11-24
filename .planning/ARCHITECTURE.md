@@ -1,6 +1,7 @@
-# Technical Architecture — The Salt Archive
+# Technical Architecture — The Forgotten Hour
 
-**Status:** Design only. No app target or source code exists yet.  
+**Adventure One:** The Salt Archive  
+**Status:** Phase 1 in progress. Core packages and the iOS app shell are being implemented.  
 **Target:** iPhone and iPad, iOS/iPadOS 17+, Swift 6, SwiftUI.  
 **Runtime dependencies:** Apple frameworks only unless a dependency is explicitly approved and recorded in `PROJECT.md`.
 
@@ -49,9 +50,9 @@ No third-party runtime package is planned. If one becomes necessary, it must be 
 The project is split into an app shell and local Swift packages so that game logic can be tested without launching SwiftUI.
 
 ```text
-TheSaltArchive/
+TheForgottenHour/
 ├── App/
-│   ├── TheSaltArchiveApp.swift
+│   ├── TheForgottenHourApp.swift
 │   ├── AppEnvironment.swift
 │   ├── RootView.swift
 │   └── Routes/

@@ -1,8 +1,8 @@
-# Agent Instructions — The Salt Archive
+# Agent Instructions — The Forgotten Hour
 
 ## Current status
 
-**Planning only.** The game design, technical architecture, and development roadmap are defined. Do not create the Xcode app, write Swift game code, generate production art, or add runtime dependencies until Phase 1 has been discussed and planned.
+**Phase 1 — Foundation and Vertical Slice.** The game is *The Forgotten Hour*; *The Salt Archive* is Adventure One. The design, architecture, and roadmap are approved. Implement only the current planned phase and validate its gates before advancing.
 
 ## Required reading before any change
 

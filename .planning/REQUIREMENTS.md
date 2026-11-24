@@ -1,5 +1,6 @@
-# Requirements: The Salt Archive
+# Requirements: The Forgotten Hour
 
+**Adventure One:** The Salt Archive  
 **Defined:** 2026-11-24  
 **Core Value:** Every puzzle must reveal a meaningful piece of the mystery, and every revelation must make the player want to solve the next puzzle.
 

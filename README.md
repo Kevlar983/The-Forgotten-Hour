@@ -1,8 +1,10 @@
-# The Salt Archive
+# The Forgotten Hour
 
-A working title for an original, fully offline mystery puzzle adventure for iPhone and iPad, built with SwiftUI.
+**Adventure One: The Salt Archive**
 
-> **Status: planning only.** The game design, technical architecture, and phased roadmap are defined here. No app implementation has started, by design.
+An original, fully offline mystery puzzle adventure for iPhone and iPad, built with SwiftUI. Iris Vale's first case is *The Salt Archive*.
+
+> **Status: Phase 1 in progress.** The game design, architecture, and roadmap are approved. Implementation follows the phased plan in `.planning/ROADMAP.md`.
 
 ## Premise
 
